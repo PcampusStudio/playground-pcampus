@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/pcampusstudio.playground-fork-l2aj7w5r",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8RUDNjxkVqu17a5iKm1t --open"
+  }
+}
